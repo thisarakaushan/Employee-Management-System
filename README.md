@@ -20,11 +20,11 @@ Welcome to the Employee Management Application! This is a full-stack web applica
 ### Prerequisites
 Before you get started, ensure you have the following installed:
 
-* Java Development Kit (JDK)
+* Java Development Kit (JDK 1.8)
 * Node.js and npm
 * Docker
 * Kubernetes
-* Helm
+* Helm (v2+)
 * Argo (optional)
   
 ### Installation
